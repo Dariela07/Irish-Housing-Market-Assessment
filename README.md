@@ -3,7 +3,7 @@ This project analyzes the Irish housing market using ten years of monthly averag
 - Data Management: Saving and retrieving data from a database.
 - Data Wrangling: Cleaning and preparing the data for analysis.
 - Exploratory Data Analysis and Visualization: Creating various visualizations, including pie charts and integrated line and bar charts.
-- Forecasting: Predicting the next month's Dublin housing prices using a deep learning model combined with time series analysis techniques. This model employs Long Short-Term Memory (LSTM) networks combined with Dense layers, Dropout layers, and LayerNormalization technique, achieving a Mean Absolute Percentage Error (MAPE) of 7.8% on the test dataset.
+- Forecasting: Predicting Dublin housing prices for the next month using time series analysis and deep neural networks. The model employs LSTM, Dense, Dropout, and LayerNormalization layers, achieving a MAPE of 7.8% on the test dataset.
 - Finally, the project compares the actual and forecasted values in a multi-line graph.
 
 ## Irish Property Dataset
