@@ -1,5 +1,10 @@
-## INTRODUCTION
-This analysis provides an overview of Irish housing market by assessing the average housing price and sales volume by county. Housing prices indicate the living cost in a region; and for property investment purpose, a high transaction volume is favoured due to the ease of resale. Furthermore, the average monthly price for Dublin, the most popular immigrant city in Ireland, is forecasted, offering insights for the property investment decisions.
+## Project Overview
+This project analyzes the Irish housing market using ten years of monthly average housing prices and sales volume data by county from the Irish Property Services Regulatory Authority (PSRA). Key steps include:
+- Data Management: Saving and retrieving data from a database.
+Data Wrangling: Cleaning and preparing the data for analysis.
+Exploratory Data Analysis and Visualization: Creating various visualizations, including pie charts, bar charts, and combined line charts.
+Forecasting: Predicting the next month's Dublin housing prices using a deep learning model. This model employs Long Short-Term Memory (LSTM) networks combined with Dense layers, Dropout layers, and LayerNormalization techniques, achieving a Mean Absolute Percentage Error (MAPE) of 7.8% on the test dataset.
+Finally, the project compares the actual and forecasted values in a plotted graph.y investment decisions.
 
 ## Irish Property Dataset
 
