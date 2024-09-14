@@ -1,6 +1,6 @@
-## Project Overview
 This project is a subsection of a group project for the 'Programming for AI' module, titled 'Essential Guide for Recent Immigrants: Navigating Housing, Driving, and Safety in Ireland.' I was responsible for analyzing housing in Ireland. All information presented here is solely the work conducted by me.
 
+## Project Overview
 The project utilizes monthly average housing prices and sales volume data by county from the Irish Property Services Regulatory Authority (PSRA). Key steps include:
 - Data Management: Saving and retrieving data from MySQL database.
 - Data Wrangling: Cleaning and preparing the data for analysis.
