@@ -2,6 +2,7 @@ This project is a subsection of a group project for the 'Programming for AI' mod
 
 ## Project Overview
 The project utilizes monthly average housing prices and sales volume data by county from the Irish Property Services Regulatory Authority (PSRA). It assesses housing market trends in Ireland, predicts Dublin housing prices using time series analysis techniques and deep neural network on a decade of data, and forecasts next month’s price. 
+
 Key steps include:
 - Data Management: Saving and retrieving data from MySQL database.
 - Data Wrangling: Cleaning and preparing the data for analysis.
