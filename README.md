@@ -1,10 +1,13 @@
 ## Project Overview
-This project analyzes the Irish housing market using ten years of monthly average housing prices and sales volume data by county from the Irish Property Services Regulatory Authority (PSRA). Key steps include:
-- Data Management: Saving and retrieving data from a database.
+This project is a subsection of a group project for the 'Programming for AI' module, titled 'Essential Guide for Recent Immigrants: Navigating Housing, Driving, and Safety in Ireland.' I was responsible for analyzing housing in Ireland. All information presented here is solely the work conducted by me.
+
+The project utilizes monthly average housing prices and sales volume data by county from the Irish Property Services Regulatory Authority (PSRA). Key steps include:
+- Data Management: Saving and retrieving data from MySQL database.
 - Data Wrangling: Cleaning and preparing the data for analysis.
-- Exploratory Data Analysis and Visualization: Creating various visualizations, including pie charts and integrated line and bar charts.
-- Forecasting: Predicting Dublin housing prices for the next month using time series analysis and deep neural networks. The model employs LSTM, Dense, Dropout, and LayerNormalization layers, achieving a MAPE of 7.8% on the test dataset.
+- Exploratory Data Analysis and Visualization: Assessing housing market trends, creating various visualizations, including pie charts and integrated line and bar charts.
+- Forecasting: Predicting Dublin housing prices using time series analysis techniques and deep neural networks. The model employs LSTM, Dense, Dropout, and LayerNormalization layers in a deep neural network built with TensorFlow in Python, achieving a MAPE of 7.8% on the test dataset. It also forecasts next month’s Dublin housing price. 
 - Finally, the project compares the actual and forecasted values in a multi-line graph.
+
 
 ## Irish Property Dataset
 
